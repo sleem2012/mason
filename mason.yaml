@@ -1,0 +1,11 @@
+
+bricks:
+
+  featuer:
+    path: bricks/featuer
+  auth:
+    path: bricks/auth
+  # widget:
+  #   git:
+  #     url: https://github.com/felangel/mason.git
+  #     path: bricks/widget
